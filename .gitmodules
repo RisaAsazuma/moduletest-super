@@ -1,0 +1,3 @@
+[submodule "moduletest-sub1"]
+	path = moduletest-sub1
+	url = https://github.com/RisaAsazuma/moduletest-sub1.git
